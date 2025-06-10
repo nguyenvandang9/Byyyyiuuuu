@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Giới Thiệu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Giới Thiệu</h1>
+    <nav>
+      <a href="index.html">Trang Chủ</a> |
+      <a href="about.html">Giới Thiệu</a> |
+      <a href="contact.html">Liên Hệ</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Về Bee Byyyy Crush 🐝</h2>
+    <p>Trang web nhỏ xinh được tạo để anh gửi lời nhắn yêu thương đến bé yêu của anh nàaa. 💖</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Bee Byyyy Crush</p>
+  </footer>
+</body>
+</html>
