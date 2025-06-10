@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Bee Byyyy Crush</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bee Byyyy Crush 🐝</h1>
+    <nav>
+      <a href="index.html">Trang Chủ</a> |
+      <a href="about.html">Giới Thiệu</a> |
+      <a href="contact.html">Liên Hệ</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Xin chào em! 🥺🥹🌷</h2>
+    <p>Anhhh chinnn nũiiii beee byyyy cuảa anhh anhhh biecc luiiii ruiiii byyyy thaaa lỗi chooo anhh đuoccc hongg🥺🥹🌷</p>
+    <img src="https://i.pinimg.com/originals/1d/b6/95/1db6958e2da7a7a16282b7d1ed5b3a43.gif" alt="Hình động đáng yêu" width="300">
+  </main>
+  <footer>
+    <p>&copy; 2025 Bee Byyyy Crush</p>
+  </footer>
+</body>
+</html>
