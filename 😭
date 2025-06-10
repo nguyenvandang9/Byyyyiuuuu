@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Liên Hệ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Liên Hệ</h1>
+    <nav>
+      <a href="index.html">Trang Chủ</a> |
+      <a href="about.html">Giới Thiệu</a> |
+      <a href="contact.html">Liên Hệ</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Liên hệ với anh nè! ❤️</h2>
+    <p>Gửi tin nhắn hoặc gọi anh bất cứ lúc nào nha. Anh luôn chờ tin em đó! 💌</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Bee Byyyy Crush</p>
+  </footer>
+</body>
+</html>
